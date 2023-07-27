@@ -13,7 +13,7 @@ ROS Sever-Client 통신 진행<br/>
 ## ROS 설치 방법
 Ubuntu기반으로 되어 있는 Jetson Nano 및 Jetson Xavier에 ROS를 설치하는 방법
 
-* ROS 설치는 공식 홈페이지에 있는 내용을 기반으로 진행
+ROS 설치는 공식 홈페이지에 있는 내용을 기반으로 진행
   ```
   $ sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
   $ sudo apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
