@@ -6,7 +6,7 @@ ROS Sever-Client 통신 진행<br/>
 
 ## 목차
 * [코드 설명](#코드-설명)
-* [실헹 방법](#실행-방법)
+* [실행 방법](#실행-방법)
 ## 코드 설명
 #### ros_tutorial_srv_server.cpp
 * ROS Master(Jetson Nano)에서 구동하는 server 코드
