@@ -12,7 +12,7 @@ int main(int argc, char **argv)
     return 1;
   }
 
-  ros::NodeHandle nh;   /
+  ros::NodeHandle nh;   
 
   ros::ServiceClient ros_tutorial_service_client = nh.serviceClient<ros_test::srvTutorial>("ros_tutorial_srv");
 
